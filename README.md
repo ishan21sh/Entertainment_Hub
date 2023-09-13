@@ -142,15 +142,4 @@ Now, you should be able to access the IMDb-inspired application in your web brow
 
 - **External APIs:**
   - [TMDB API](https://www.themoviedb.org/documentation/api)
-
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow the [Contributing Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 Enjoy exploring and using the IMDb-inspired full stack application! If you have any questions or encounter any issues, please feel free to open an issue or contact us. Happy movie watching and reviewing! 🍿🎬📺
